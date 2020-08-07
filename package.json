@@ -30,7 +30,7 @@
     "jss": "latest",
     "loadsh": "^0.0.4",
     "lodash": "^4.17.11",
-    "prismjs": "^1.15.0",
+    "prismjs": "^1.21.0",
     "prop-types": "latest",
     "puppeteer": "^1.17.0",
     "react": "^16.8.6",
